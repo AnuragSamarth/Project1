@@ -1,2 +1,2 @@
 # Project1
-I created Employee Management System program by using C++ language.
+I created an Employee Management System program by using C++ language.
